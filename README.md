@@ -1,5 +1,7 @@
 # EasyQuery - AI SQL Query Builder
 
+![icon](public/icon.png)
+
 EasyQuery is an advanced AI-powered SQL Query Builder designed to transform human language instructions into precise SQL queries. This tool is particularly valuable for users with limited SQL knowledge, making it easy to interact with databases using simple, natural language commands. By leveraging natural language processing (NLP) and artificial intelligence (AI), EasyQuery interprets user inputs, understands data structures, and generates the appropriate SQL queries.
 
 Note: This is a hackathon project, and is meant to be a proof of concept. While functional, it is not yet production-ready. And some functionalities like updating ddl, etc. are missing and are hardcoded. If you wish to use it, and don't understand something, feel free to mail me at baxidhairya2312@gmail.com
