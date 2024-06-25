@@ -1,6 +1,6 @@
 # EasyQuery - AI SQL Query Builder
 
-![icon](public/icon.png){width=50 height=50}
+<img src="https://raw.githubusercontent.com/Baxi-codes/SQL-query-builder/master/public/icon.png" width="50px" height="50px">
 
 EasyQuery is an advanced AI-powered SQL Query Builder designed to transform human language instructions into precise SQL queries. This tool is particularly valuable for users with limited SQL knowledge, making it easy to interact with databases using simple, natural language commands. By leveraging natural language processing (NLP) and artificial intelligence (AI), EasyQuery interprets user inputs, understands data structures, and generates the appropriate SQL queries.
 
